@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 Here is my stack :</p>
+<h2 align="center">💻 Here is my stack :</h2>
 
 ###
 
