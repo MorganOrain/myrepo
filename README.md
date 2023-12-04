@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="center">💻 Here is my stack :</h2>
+<h3 align="center">💻 Here is my stack :</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
