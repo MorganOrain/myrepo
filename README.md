@@ -1,10 +1,8 @@
-<h2 align="center">Hi 👋! My name is Morgan and i'm a 20 years old JS developeur, from France </h2>
+<h1 align="center">Hi 👋! My name is Morgan and i'm a 20 years old JS developeur, from France </h1>
 
 ###
 
 <h2 align="center">💻 Here is my stack :</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
